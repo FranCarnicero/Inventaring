@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Inventaring</string>
+    <string name="result">Result</string>
+    <string name="descargajson">Descargar en Archivo Json</string>
+</resources>
